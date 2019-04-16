@@ -16,5 +16,5 @@ Se necesita un imitador del sistema de archivos (FileSystem) de Windows. En un F
 
 **ACLARACION:** simplemente se necesita un modelo de clases que soporte lo anteriormente mencionado, no se generaran archivos ni carpetas de verdad en el sistema operativo local donde se ejecute el programa!
 
-## Modelo Solucion
+## Modelo Solución
 ![Modelo](/modelo.png?raw=true)
